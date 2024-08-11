@@ -5,6 +5,7 @@ import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export default function App() {
   return (
