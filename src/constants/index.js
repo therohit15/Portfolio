@@ -76,5 +76,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "1007 Mountain Drive 48122 Gotham City",
   phoneNo: "+044 420420420420 ",
-  email: "rohitk15102004@gmail.com",
+  email: "therohit15official@gmail.com",
 };
