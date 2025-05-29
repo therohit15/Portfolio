@@ -18,7 +18,7 @@ const Contact = () => {
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
           transition={{ duration: 1 }}
-          href="https://mail.google.com/mail/u/0/?fs=1&to=rohitk15102004@gmail.com&su=SUBJECT&body=Hello+Rohit&tf=cm"
+          href="https://mail.google.com/mail/u/0/?fs=1&to=therohit15official@gmail.com&su=SUBJECT&body=Hello+Rohit&tf=cm"
           className=" my-4 border-b"
         >
           {CONTACT.email}
